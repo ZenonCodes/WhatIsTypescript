@@ -1,0 +1,25 @@
+{
+  "name": "whatistypescript",
+  "version": "1.0.0",
+  "description": "Dictionary Website using TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZenonCodes/WhatIsTypescript.git"
+  },
+  "author": "ZenonCodes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZenonCodes/WhatIsTypescript/issues"
+  },
+  "homepage": "https://github.com/ZenonCodes/WhatIsTypescript#readme",
+  "devDependencies": {
+    "@types/mocha": "^9.1.0",
+    "mocha": "^9.2.2",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.3"
+  }
+}
