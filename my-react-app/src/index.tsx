@@ -4,6 +4,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+
 ReactDOM.render(
   <React.StrictMode>
 
@@ -19,9 +20,8 @@ ReactDOM.render(
 reportWebVitals();
 
 
-// Import stylesheets
 // import React from 'react';
-// import "./index.html";
+// import "index.html";
 //
 //
 // const form: HTMLFormElement = document.querySelector('#defineform');
