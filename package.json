@@ -17,9 +17,19 @@
   },
   "homepage": "https://github.com/ZenonCodes/WhatIsTypescript#readme",
   "devDependencies": {
+    "@types/jest": "^27.4.1",
     "@types/mocha": "^9.1.0",
+    "@types/node": "^17.0.23",
+    "@types/react-dom": "^18.0.0",
+    "@types/webpack": "^5.28.0",
+    "clean-webpack-plugin": "^4.0.0",
+    "copy-webpack-plugin": "^10.2.4",
+    "declaration-bundler-webpack-plugin": "^1.0.3",
     "mocha": "^9.2.2",
+    "ts-loader": "^9.2.8",
     "ts-node": "^10.7.0",
-    "typescript": "^4.6.3"
+    "typescript": "^4.6.3",
+    "webpack": "^5.72.0",
+    "wepack-cli": "^0.0.1-security"
   }
 }
